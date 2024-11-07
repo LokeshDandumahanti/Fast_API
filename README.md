@@ -1,7 +1,7 @@
 # Fast_API
 Some the projects which I am doing to learn Fast API
 
-**How to choose the location ?**
+### How to choose the location ?
 
 For suppose C:/abc/dd.py is the file, then
 
